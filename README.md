@@ -1,2 +1,2 @@
 # fraydata
-Data manager &amp; store for frayzzke
+Data manager &amp; store for frayzzle
